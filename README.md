@@ -14,7 +14,7 @@ This is the repo for a simple example of learning to optimize an MIQP using neur
 * Learning-to-optimize (L2O) leverages the problem's objective and constraints to define the loss function for training NNs.
 * Based on differentiable programming to optimize the loss function.
 
-![Diagram](l2o_cvxpy.png)  
+![Diagram](l2o_cvx.png)  
 
 ** Current challenges in L2O for MIP
 
